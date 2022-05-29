@@ -1,0 +1,5 @@
+v1
+{"path":"file:///home/chaitanya/spark-3.1.2-bin-hadoop2.7/python/tweet_output/part-00000-5ecb4873-3c73-4b55-bced-19cfebf66821-c000.csv","size":4994,"isDir":false,"modificationTime":1639852321244,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/chaitanya/spark-3.1.2-bin-hadoop2.7/python/tweet_output/part-00001-305cb708-0636-4b41-837d-8e72e6c91de9-c000.csv","size":4908,"isDir":false,"modificationTime":1639852321264,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/chaitanya/spark-3.1.2-bin-hadoop2.7/python/tweet_output/part-00002-f5368871-1950-4140-a003-375701855cdb-c000.csv","size":4523,"isDir":false,"modificationTime":1639852321256,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/chaitanya/spark-3.1.2-bin-hadoop2.7/python/tweet_output/part-00003-967c0590-b233-4b33-9a41-b2fb8f8542c5-c000.csv","size":4786,"isDir":false,"modificationTime":1639852321244,"blockReplication":1,"blockSize":33554432,"action":"add"}
